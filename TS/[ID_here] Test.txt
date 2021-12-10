@@ -1,0 +1,19 @@
+{
+info:
+  titleJP:てすと
+  titleEN:Test
+  status:TL/PR/TS/RE
+  tags:[
+    <f:a_tag>,
+	<f:a_second_tag>
+  ]
+  raw:[
+    files.catbox.moe/example.zip # chapter bla
+  ]
+  ts:[
+    
+  ]
+}
+
+Your script 
+goes here
